@@ -1,0 +1,48 @@
+
+h1{
+    font-size: 500%;  
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 200px;
+    position: relative;
+    margin: 0;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  
+
+.form-group{
+  display:block;
+  width:40%;
+  margin:0 auto;
+  align-items: center;
+  padding-top: auto;
+}
+
+
+.form-check{
+  display:block;
+  width:40%;
+  margin:0 auto;
+  align-items: center;
+  padding-top: auto;
+}
+
+.btn{
+  display:block;
+  width:40%;
+  margin:0 auto;
+  align-items: center;
+  padding-top: auto;  
+}
+
+.inlog{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translateX(-50%) translateY(-50%);
+}
+
+
